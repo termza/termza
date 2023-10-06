@@ -1,8 +1,7 @@
-### <div align="center">I'm Termza, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Termza, a full-stack freelance developer 👨‍💻 working since 2019 🚀</div>  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+- 👀 I was a vfx/gfx artist before turning to programming!
 
 <br/>  
 
